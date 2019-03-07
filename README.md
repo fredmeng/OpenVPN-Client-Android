@@ -1,11 +1,8 @@
 # OpenVPN-Client-Android
-<p>This is about how to set up the OpenVPN client on your Android phone with step-by-step instructions.</p>
+<p>This is about how to set up the OpenVPN client on your <b>Android phone</b> with step-by-step instructions.</p>
 
-<h2>Android</h2>
 
 <p><br>Step 1: Find following 3 files on your OpenVPN server and copy to your Android phone</p>
-
-<p>[[MORE]]</p>
 
 <pre>
 /etc/easy-rsa/easyrsa3/pki/ca.crt
