@@ -10,7 +10,7 @@
 /etc/easy-rsa/easyrsa3/pki/private/android.key
 </pre>
 
-<p><br>Step 2: Create an OpenVPN client config file e.g.<b>android.ovpn</b> on your Android phone. Following is an example.</p>
+<p><br>Step 2: Create an OpenVPN client config file e.g. <b>android.ovpn</b> on your Android phone. Following is an example.</p>
 
 <pre>
 # Specify that we are a client and that we
